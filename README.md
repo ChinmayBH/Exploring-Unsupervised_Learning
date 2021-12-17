@@ -4,7 +4,7 @@ Unsupervised learning algorithms:-
 2) Association 
 
 
-These are set of algorithms which are used when there is no target variable present.
+These are sets of algorithms which are used when there is no target variable present.
 These algorithms are writen considering dataset in Euclidian space .
 We have no one for supervision thats why it is named as UNSUPERVISED learning .
 Clustering : These algorithms search for patterns,simillarities and on that basis they form clusters.
